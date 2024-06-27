@@ -1,0 +1,16 @@
+.invert, .yellowBG {
+    font-family: Helvetica, "Times New Roman",sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
+
+.invert {
+    color: aliceblue;
+    background-color: black;
+    font-weight: bold;
+}
+
+.yellowBG {
+    color: black;
+    background-color: #ffe135;
+}
